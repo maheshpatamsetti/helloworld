@@ -1,6 +1,15 @@
 <html>
-<header><title>This is title</title></header>
+
 <body>
-Hello world1
+
+  <p>Before the script...</p>
+
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+  <p>...After the script.</p>
+
 </body>
+
 </html>
